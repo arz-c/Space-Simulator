@@ -1,0 +1,10 @@
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\bin\Debug\SpaceSimulator.exe.config
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\bin\Debug\SpaceSimulator.exe
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\bin\Debug\SpaceSimulator.pdb
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\obj\Debug\SpaceSimulator.csprojAssemblyReference.cache
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\obj\Debug\SpaceSimulator.SpaceSimulatorForm.resources
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\obj\Debug\SpaceSimulator.Properties.Resources.resources
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\obj\Debug\SpaceSimulator.csproj.GenerateResource.cache
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\obj\Debug\SpaceSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\obj\Debug\SpaceSimulator.exe
+C:\Users\Areez\Documents\Coding\C#\SpaceSimulator\SpaceSimulator\obj\Debug\SpaceSimulator.pdb
